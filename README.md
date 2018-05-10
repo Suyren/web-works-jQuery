@@ -2,8 +2,8 @@
 ---------------------------
 ## Skill
 
-*html css
+* html css
 
-*jQuery Light Box、Nivo Slider
+* jQuery Light Box、Nivo Slider
 
-*css3 transform
+* css3 transform
