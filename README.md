@@ -1,9 +1,9 @@
 # jQuery 作品
 ---------------------------
-##Skill
+## Skill
 
 *html css
 
-*jQuery
+*jQuery Light Box、Nivo Slider
 
-*css transform
+*css3 transform
